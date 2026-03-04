@@ -27,9 +27,12 @@ The prototype is built using React and Vite. To run it locally:
 
 ## Key Screens in the Prototype
 
-- **Activity (Odometer)**: Real-time tracking of distance, steps, and Hatua Points.
-- **Explore (Map)**: OpenStreetMap-inspired view with AI route suggestions and safety features.
-- **Rank (Leaderboard)**: Community ranking showing avatars and weekly progress.
+- **Activity (Odometer)**: Live tracking with multiple modes (Outdoor, Indoor, Race) and activities (Walk, Jog, Bike, Race).
+- **Explore (Map)**: Interactive route selection (Uhuru Park, CBD, Ngong Hills) with AI suggestions.
+- **Goals (Challenges)**: Join community challenges and track progress.
+- **Rank (Leaderboard)**: Competitive ranking with podium and localized avatars.
+- **Store (Rewards)**: Redeem points for M-Pesa, Airtime, or planting trees.
+- **Profile**: Personal stats and referral program.
 
 ## Vision
 
